@@ -1,0 +1,109 @@
+/*
+Template Name: Section 2
+Author Name: Mahid Mahmud
+Description: A beautiful Section
+Authod URI: nhpit.com
+*/
+body{
+    margin: 0;
+}
+.main-section {
+    display: flex;
+}
+.left-main,.right-main{
+    width: 50%;
+}
+.left-main img {
+    width: 100%;
+}
+.right-main h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 12%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.right-main span {
+    color: #19B5FA;
+}
+.right-section-content {
+    margin-left: 7%;
+    width: 83%;
+}
+.right-section-content p {
+    color: #A4A4A4;
+}
+
+/*=========================================*/
+.btn.btn-link {
+    color: #000;
+    text-decoration: none;
+}
+.card-body {
+    color: #A5A5A5;
+}
+#headingOne {
+    border: none;
+    position: relative;
+    background-color: #fff;
+}
+#headingTwo {
+    border: none;
+    position: relative;
+    background-color: #fff;
+}
+#headingThree {
+    border: none;
+    position: relative;
+    background-color: #fff;
+}
+.fas.fa-angle-down {
+    position: absolute;
+    right: 3%;
+    top: 31%;
+}
+.fas.fa-angle-up{
+    position: absolute;
+    right: 3%;
+    top: 31%;
+}
+.card {
+    margin-top: 10px;
+}
+.accordion>.card:not(:last-of-type) {
+    border: 1px solid #DFDFDF;
+}
+.accordion-section button.btn:focus{
+	box-shadow:none;
+}
+.accordion-section button.btn{
+	padding: 0;
+	font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    color:#3A3A3A;
+}
+.card-header h2{
+	line-height:0;
+}
+.card-header{
+	padding: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
